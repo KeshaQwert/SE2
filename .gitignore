@@ -1,0 +1,11 @@
+.vs
+x64
+*.obj
+*.exe
+*.layout
+*.depend
+/bin
+/obj
+TP_LR6(III).vcxproj
+TP_LR6(III).vcxproj.filters
+TP_LR6(III).vcxproj.user
